@@ -106,4 +106,5 @@ How many establishments in each Local Authority area have a hygiene score of 0? 
 
 # References
 Referenced class speedrun to trouble shoot code when stuck.
-Partnered with class study group to recolve code errors on certain questions.
+
+Partnered with class study group to resolve code errors on certain questions.
